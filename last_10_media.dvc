@@ -1,0 +1,6 @@
+outs:
+- md5: 031bdcc6e25fac8dc3119433071d88b4.dir
+  size: 51885720
+  nfiles: 49
+  hash: md5
+  path: last_10_media

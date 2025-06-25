@@ -1,0 +1,6 @@
+outs:
+- md5: a140326a7106fd1e293b0743101d03d1.dir
+  size: 101591
+  nfiles: 50
+  hash: md5
+  path: last_10_data

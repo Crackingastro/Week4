@@ -4,3 +4,5 @@ Data/
 last_10_data/
 last_10_media/
 last10_processed.csv
+/last_10_data
+/last_10_media

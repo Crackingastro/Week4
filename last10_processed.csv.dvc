@@ -1,0 +1,6 @@
+outs:
+- md5: b1ae1eb7d1320b203d7ed629b1a2f4c4
+  size: 83728
+  isexec: true
+  hash: md5
+  path: last10_processed.csv

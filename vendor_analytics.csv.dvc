@@ -1,0 +1,6 @@
+outs:
+- md5: 847744136c81911b970b2c5d4f21e916
+  size: 505
+  isexec: true
+  hash: md5
+  path: vendor_analytics.csv
